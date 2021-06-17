@@ -1,0 +1,73 @@
+.header1{
+	color: red;
+	border: 8px solid green;
+	text-align: center;
+}
+.header2{
+	color: white;
+	border: 8px solid green;
+	text-align: center;
+	background-color: blue;
+	margin-left: 430px;
+    margin-right: 430px;
+}
+aside{
+	width: 200px;
+	height: 150px;
+	background-color: darkblue;
+	color: white;
+	padding: 10px;
+	margin-right: 20px;
+	float: right;
+
+}
+.mydiv{
+	background-color: tomato;
+	border: 5px solid black;
+	text-align: center;
+}
+em{
+	font-size: 15px;
+	font-style: italic;
+}
+embed{
+	width: 400px;
+	height: 400px;
+	margin-left: 50%;
+	
+}
+figure{
+	height: 400px;
+	width: 600px;
+	border: 5px solid black;
+
+}
+table, th, td{
+	border: 4px solid red;
+}
+table{
+	border-collapse: collapse;
+}
+.github{
+	margin-left:30px ;
+}
+.button1{
+	border: none;
+	font-size: 20px;
+	color: red;
+	padding: 10px 25px;
+	margin-left: 50%;
+	margin-right: 50%;
+	background-color: blue;
+
+}
+.button1 hovar{
+	background-color: green;
+}
+.pic1{
+	margin-right: 80px;
+}
+.object{
+	width: 800px;
+	height: 400px;
+}
